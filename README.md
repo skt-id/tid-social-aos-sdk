@@ -1,1 +1,0 @@
-# tid-social-aos-sdk
